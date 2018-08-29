@@ -55,12 +55,12 @@ li a {
   order: 2;
   min-height: 320px;
   width: 38%;
-  background-color: pink; }
+  background-color: #efefef; }
 .carousel {
   position: relative;
   order: 1;
   padding: 15px;
-  width: 100%;
+  width: 96.2%;
   background-color: #efefef; }
 .carousel-item {
   position: relative; }
@@ -104,21 +104,19 @@ li a {
   .carousel-control.right {
     right: 5px;
     transform: scale(-1, 1); }
-
-
 .content-bottom-left {
   order: 4;
   min-height: 110px;
   width: 50%;
-  background-color: gray; }
+  background-color: #efefef; }
 .content-bottom-right {
   order: 4;
   min-height: 110px;
-  width: 50%;
-  background-color: orange; }
+  width: 49.9%;
+  background-color: #efefef; }
 .footer {
   min-height: 200px;
-  background-color: magenta; }
+  background-color: rgba(0, 0, 0, 0.4); }
 
 
 
