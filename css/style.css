@@ -47,37 +47,37 @@ li a {
   text-transform: uppercase; }
 
 .slogan {
-	color: #b3b3b3;
-	margin-left: 64px;
-	font-size: 11px; }
+  color: #b3b3b3;
+  margin-left: 64px;
+  font-size: 11px; }
 
 .header-menu {
-	float: left;
-	margin-top: 40px;
-	width: calc(100% - 200px);
-	text-align: right; }
-	.header-menu ul {
-		display: table;
-		padding: 0; }
-	.header-menu.active ul {
-		display: table !important;
-		clear: both; }
-	.header-menu__list {
-		display: inline-block;
-		list-style: none; }
-		.header-menu__list.active a {
-			background: #0f8bbe;
-			background: linear-gradient(to bottom, #0f8bbe 0%, #2989d8 50%, #207cca 51%, #0eb7fe 100%);
-			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0f8bbe', endColorstr='#0eb7fe',GradientType=0 ); }
-		.header-menu__list:hover:not(.active) a {
-			background-color: rgba(255, 255, 255, 0.2); }
-		.header-menu__list a {
-			margin-left: 7px;
-			padding: 12px 15px;
-			border-radius: 15px;
-			color: #fefefe;
-			text-decoration: none;
-			text-transform: uppercase; }
+  float: left;
+  margin-top: 40px;
+  width: calc(100% - 200px);
+  text-align: right; }
+  .header-menu ul {
+    display: table;
+    padding: 0; }
+  .header-menu.active ul {
+    display: table !important;
+    clear: both; }
+  .header-menu__list {
+    display: inline-block;
+    list-style: none; }
+    .header-menu__list.active a {
+      background: #0f8bbe;
+      background: linear-gradient(to bottom, #0f8bbe 0%, #2989d8 50%, #207cca 51%, #0eb7fe 100%);
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0f8bbe', endColorstr='#0eb7fe',GradientType=0 ); }
+    .header-menu__list:hover:not(.active) a {
+      background-color: rgba(255, 255, 255, 0.2); }
+    .header-menu__list a {
+      margin-left: 7px;
+      padding: 12px 15px;
+      border-radius: 15px;
+      color: #fefefe;
+      text-decoration: none;
+      text-transform: uppercase; }
 
 .header-menu__btn {
   display: none;
@@ -379,7 +379,7 @@ li a {
     font-size: 10px; }
 
 .bottom-slogan {
-	 margin: 0px;
+   margin: 0px;
    color: #b3b3b3;
    font-size: 11px; }
 
